@@ -1,0 +1,18 @@
+{
+    "name": "avaliacao/web",
+    "description": "P1 de desenvolvimento web",
+    "autoload": {
+        "psr-4": {
+            "Avaliacao\\Web\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Gabriel Gadelha",
+            "email": "gabrielgadelha8@hotmail.com",
+            "name": "Alan Chagas",
+            "email": "allanchagasilva@gmail.com"
+        }
+    ],
+    "require": {}
+}
